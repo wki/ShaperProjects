@@ -1,2 +1,9 @@
 # files provided by Shaper
 Farbkodierung Origin.afstyles
+
+# backup files created by SvgMangler
+*.bak*.svg
+
+# dotnet related stuff
+obj/
+bin/
