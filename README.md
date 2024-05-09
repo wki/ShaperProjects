@@ -14,14 +14,21 @@ to use the settings from [3] when exporting a drawing as SVG.
 Projects:
 
  * French Cleat
-   some shapes usable for french cleat attachments.
+   Some shapes usable for french cleat attachments.
+   Will be expanded as my progress evolves.
 
  * Puzzle
    4 parts able to stick together as a puzzle (still not working).
 
  * Puzzle_Connection
-   a pap-joint like connection with a round shape like a puzzle.
-   currently drawn for wood stipes with 45mm width.
-   Each readus is 8mm min, the bit diameter is designed to be 6mm.
-   a custom reference point is in the middle axis of the shape at the border
+   A lap-joint like connection with a round shape like a puzzle.
+   Currently drawn for wood stipes with 45mm width and 20mm thickness.
+   Each radius in the drawing is 8mm min, the bit diameter is designed to be 6mm.
+   A custom reference point is in the middle axis of the shape at the border
+   helps placing the individual shapes properly if a grid is defined where the
+   wood stipes are aligned at.
 
+ * Flat_clamp_19mm
+   a clamping mechanism with a 19mm hole in the middle to allow clamping
+   pieces on a surface with 19mm holes.
+   
