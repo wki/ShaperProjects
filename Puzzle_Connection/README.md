@@ -1,5 +1,17 @@
 # Shaper Workbench Verbindungen erstellen
 
+Sinn dieser Fräsvorlagen ist das Erstellen einer 90° Verbindung von Leisten,
+die vorher auf eine Größe von 45mm Breite und 20mm Dicke gehobelt wurden.
+Die Verbindung ist ähnlich einer Überblattung, nutzt aber eine einem Puzzle
+ähnliche runde vorne sichtbare Struktur, die die beiden Teile zusammenhält.
+
+Dieses Dokument enthält zahlreiche Überlegunen bis zur Durchführung der Fräsung
+und wird sich im Laufe der Zeit verändern.
+
+Ziel ist es, mit möglichst wenigen Operationen auf der Shaper Origin
+möglichst viele Verbindungen in gleicher Zeit herstellen zu können.
+
+
 ## Ausrichtung/Vorbereitung Workbench
 
  * Workbench Tiefe so einstellen, dass Oberkante Leiste bündig mit Domino-Fläche ist
@@ -16,8 +28,8 @@
        +-----------------------+
        ------------------------- ^ Opferleiste 20mm x 25mm
        ----------------+-------- ^ Distanzleiste 20mm x 10mm
-       Leiste          | (nix)   zu fräsende Leiste, wahlweise Stirnseitig oder nach vorne        45 x 20mm
-       ----------------+-------- 
+       Leiste          | (nix)   <- zu fräsende Leiste 45mm x 20mm
+       ----------------+--------
        ------------------------- ^ Distanzleiste 20mm x 10mm
        
        ------------------------- Ablage
@@ -42,11 +54,11 @@
             |   |                     |  |
          ---.....----------+          |  |
             |              |          |  |      <-- Werkstück
-         ---.....-------~~~~~~~-------....---   <-- x-Achse   ~ = Opfer-Bereich
+         ---.....-------~~~~~~~-------....---   <-- x-Achse ~ = Opfer-Bereich
                                          |      <-- Leiste zur Anlage
-         ---.....---------------------....---       schaut auf beiden Seiten raus
-            |    +--------------------+  |          zum Fixieren des Werkstücks
-            |                            |
+         ---.....---------------------....---       schaut auf beiden Seiten
+            |    +--------------------+  |          raus zum Fixieren
+            |                            |          des Werkstücks
             +----------------------------+
 
 
