@@ -81,7 +81,9 @@ möglichst viele Verbindungen in gleicher Zeit herstellen zu können.
 ## Fräsen
 
  * Kontrolle: Außen/Innen/Tasche
- * TODO: brauchen wir irgendwo Versatz (Leimfuge)?
+ * Versatz bei Ausschnitt: 
+   - -0,1mm: eng aber passend, 
+   - -0,2mm: geringes Spiel aber keine Fuge
  * Tiefen: 5mm / 10mm in 2 Durchgängen bei Weichholz, 3,5mm Schritte bei Hartholz
 
 Evtl. Lasche 2mm tiefer fräsen und dann mit Japan-Säge überschüssiges Holz
