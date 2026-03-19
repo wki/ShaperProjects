@@ -11,6 +11,15 @@
    requires a .NET SDK to be installed.   
    run like (if inside a Project folder)
    dotnet run --project ../SvgMangler /path/to/x.svg
+
+   for basic SVG addons, see 
+   https://support.shapertools.com/de/hc/de-de/articles/12946815194011-manuelle-svg-fr%C3%A4stiefenkodierung
+   https://support.shapertools.com/hc/en-us/articles/12946815194011-manual-svg-cut-depth-encoding
+
+   available attributes
+   * shaper:cutDepth = "x.y mm|in"
+   * shaper:cutType = "pocket | outside | inside | onLine | guide"
+
 */
 
 using System.Text.RegularExpressions;
