@@ -1,4 +1,5 @@
-﻿/* SvgMangler
+#!/usr/bin/env dotnet
+/* SvgMangler
    - loads a svg file from the first commandline argument 
    - adds namespace xmlns:shaper="http://www.shapertools.com/namespaces/shaper"
    - searches for shapes with an ID like "d-x.ymm" or "d-x.yin"
